@@ -1,4 +1,4 @@
-# 52 IoT Projects
+# IoT Projects
 
 Welcome to the **52 IoT Projects** repository! This collection of Internet of Things (IoT) projects is part of the documentation and development hosted on the **Tidurdikit** space.
 
